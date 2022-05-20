@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/80037791/169598823-f3999594-cca8-4936-a5ee-84165c3e8ab1.mp4
+
 # IPL-DashBoard
 This is a IPL DashBoard, this app shows all top stats in IPL history 2007/08 To 2021.
 To build this app I have used python library numpy, pandas, matplotlib, seaborn and to deploy streamlit, heroku as a server.
