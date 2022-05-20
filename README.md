@@ -5,4 +5,5 @@ I have not used any ipl api, we use only kaggle ipl dataset : https://www.kaggle
 with the help of this dataset i have applied all analysis like overall IPL history, Season wise IPL analysis, and in a particular Season what is performance of a particular
 players.
 You can check live demo of this app : https://ipl-dashbord.herokuapp.com/
+
 Thank you!
